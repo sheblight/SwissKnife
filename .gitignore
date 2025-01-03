@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/.vs/SwissKnife/FileContentIndex/32e73e00-df3f-41cf-8de8-8b130b8a9862.vsidx
+/.vs/SwissKnife/FileContentIndex/587725e2-a0b9-4449-b46a-76224e425c7e.vsidx
+/.vs/SwissKnife/FileContentIndex/97c0bac4-9a35-431a-9479-1fc80e053306.vsidx
+/.vs/SwissKnife/FileContentIndex/c6d05d74-fa34-4476-bba0-009b4359c675.vsidx
+/.vs/SwissKnife/FileContentIndex/d69e5d51-97c1-4625-ad97-c0bfa1dac0a2.vsidx
+*.vsidx
